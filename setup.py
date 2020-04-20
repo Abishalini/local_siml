@@ -9,5 +9,5 @@ setup(name='packaging_test',
       author='SSV',
       author_email='ssvillareal@example.com',
       license='MIT',
-      packages=['local_SIML'],
+      packages=['local_siml', 'SIML'],
       zip_safe=False)
