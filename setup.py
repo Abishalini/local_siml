@@ -1,4 +1,4 @@
-rom setuptools import setup
+from setuptools import setup
 
 setup(name='packaging_test',
       version='0.1',
