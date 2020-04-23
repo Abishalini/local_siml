@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='packaging_test',
+setup(name='local_siml',
       version='0.1',
       description='The funniest joke in the world',
       url='https://github.com/Abishalini/local_siml.git',
